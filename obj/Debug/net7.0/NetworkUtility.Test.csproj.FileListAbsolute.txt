@@ -107,3 +107,5 @@ C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\o
 C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\obj\Debug\net7.0\NetworkUtility.Test.pdb
 C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\obj\Debug\net7.0\NetworkUtility.Test.genruntimeconfig.cache
 C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\obj\Debug\net7.0\ref\NetworkUtility.Test.dll
+C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\BF967ZC\OneDrive - EY\Desktop\peperonii\luka\luka\NetworkUtility.Test\bin\Debug\net7.0\FakeItEasy.dll
